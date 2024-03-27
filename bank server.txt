@@ -1,0 +1,10 @@
+bank
+ragul{'reservebank': [980, 100190], 'statebank': [480, 20190], 'tamilnadu': [4480, 980], 'thirunelveli': [30, 990]}
+bank
+ragul{'reservebank': [980, 100190], 'statebank': [480, 20190], 'tamilnadu': [4480, 980], 'thirunelveli': [30, 990]}
+bank
+ragul{'reservebank': [980, 100190], 'statebank': [480, 20190], 'tamilnadu': [4480, 980], 'thirunelveli': [30, 990]}
+bank
+ragul{'reservebank': [980, 100190], 'statebank': [480, 20190], 'tamilnadu': [4480, 980], 'thirunelveli': [30, 990]}
+bank
+ragul{'reservebank': [980, 100190], 'statebank': [480, 20190], 'tamilnadu': [4480, 980], 'thirunelveli': [30, 990]}
